@@ -1,0 +1,12 @@
+:root{
+    --texte-fundo: red;
+}
+
+body {
+    background-color: var(--texte-fundo);
+}
+
+.navbar-brand{
+    background-color: var(--texte-fundo);
+
+}
